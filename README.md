@@ -19,7 +19,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/soumya27062005">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Graphic%20Designer;AI&DS%20Engineering;Flutter%20Development;Full%20Stack%20Development&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Graphic%20Designer;AI-DS%20Engineering;Flutter%20Development;Full%20Stack%20Development&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
   </a>
 </p>
 
